@@ -8,7 +8,7 @@ Thie materials are based on [Credit Loan Decisions](https://fairlearn.org/v0.10/
 
 1. Pull current repo:
 ```buildoutcfg
-git clone https://github.com/galinadychko/titanic
+git clone https://github.com/h-dychko/Fairness-with-Fairlearn
 ```
 2. Create a virtual environment and install requirements
 ```
