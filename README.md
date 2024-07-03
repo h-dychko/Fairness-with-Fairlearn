@@ -19,5 +19,7 @@ python -m venv .venv
 ```
 3. To run a notebook:
 ```
-.venv\Scripts\jupyter notebook
+.venv\Scripts\activate
+jupyter notebook
 ```
+open 'Credit loan allocation.ipynb' from the UI.
