@@ -4,7 +4,7 @@ Welcome to the fairness exploration with [Fairlearn](https://fairlearn.org/) pac
 Thie materials are based on [Credit Loan Decisions](https://fairlearn.org/v0.10/auto_examples/plot_credit_loan_decisions.html#sphx-glr-auto-examples-plot-credit-loan-decisions-py)
 
 
-# Run a Notebook, web app:
+# Run a Notebook:
 
 1. Pull current repo:
 ```buildoutcfg
@@ -16,7 +16,7 @@ git clone https://github.com/galinadychko/titanic
 python -m venv .venv
 .venv\Scripts\pip install -r requirements.txt
 ```
-3. To run notebooks:
+3. To run a notebook:
 ```
 .venv\Scripts\jupyter notebook
 ```
